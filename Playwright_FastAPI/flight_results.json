@@ -1,0 +1,666 @@
+[
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-2062",
+        "dep_time": "20:30",
+        "arr_time": "08:30 PM",
+        "duration": "02h : 50m",
+        "price": "₹ 6,749.00"
+    },
+    {
+        "airline": "SpiceJet",
+        "flight_number": "SG-535",
+        "dep_time": "16:25",
+        "arr_time": "04:25 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 6,905.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-428",
+        "dep_time": "14:35",
+        "arr_time": "02:35 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2818",
+        "dep_time": "20:00",
+        "arr_time": "08:00 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2814",
+        "dep_time": "22:00",
+        "arr_time": "10:00 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2511",
+        "dep_time": "15:00",
+        "arr_time": "03:00 PM",
+        "duration": "03h : 00m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2665",
+        "dep_time": "19:30",
+        "arr_time": "07:30 PM",
+        "duration": "03h : 00m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2488",
+        "dep_time": "22:25",
+        "arr_time": "10:25 PM",
+        "duration": "03h : 00m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2418",
+        "dep_time": "16:35",
+        "arr_time": "04:35 PM",
+        "duration": "03h : 05m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2661",
+        "dep_time": "21:00",
+        "arr_time": "09:00 PM",
+        "duration": "03h : 05m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2802",
+        "dep_time": "19:00",
+        "arr_time": "07:00 PM",
+        "duration": "03h : 10m",
+        "price": "₹ 6,995.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6039",
+        "dep_time": "14:10",
+        "arr_time": "02:10 PM",
+        "duration": "03h : 00m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 843",
+        "dep_time": "15:30",
+        "arr_time": "03:30 PM",
+        "duration": "03h : 00m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6725",
+        "dep_time": "16:50",
+        "arr_time": "04:50 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6034",
+        "dep_time": "18:00",
+        "arr_time": "06:00 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 735",
+        "dep_time": "19:15",
+        "arr_time": "07:15 PM",
+        "duration": "02h : 50m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6788",
+        "dep_time": "22:05",
+        "arr_time": "10:05 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6813",
+        "dep_time": "23:30",
+        "arr_time": "11:30 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 7,594.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 807,5164",
+        "dep_time": "16:45",
+        "arr_time": "04:45 PM",
+        "duration": "05h : 00m",
+        "price": "₹ 7,645.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 638,2256",
+        "dep_time": "19:00",
+        "arr_time": "07:00 PM",
+        "duration": "04h : 50m",
+        "price": "₹ 7,645.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E- 356,6834",
+        "dep_time": "17:45",
+        "arr_time": "05:45 PM",
+        "duration": "06h : 10m",
+        "price": "₹ 7,645.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E-6891,6618",
+        "dep_time": "16:35",
+        "arr_time": "04:35 PM",
+        "duration": "06h : 10m",
+        "price": "₹ 7,645.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2820",
+        "dep_time": "18:00",
+        "arr_time": "06:00 PM",
+        "duration": "02h : 50m",
+        "price": "₹ 7,664.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2486",
+        "dep_time": "14:00",
+        "arr_time": "02:00 PM",
+        "duration": "02h : 55m",
+        "price": "₹ 7,664.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1040",
+        "dep_time": "19:05",
+        "arr_time": "07:05 PM",
+        "duration": "02h : 50m",
+        "price": "₹ 9,093.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2787,1621",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "11h : 50m",
+        "price": "₹ 9,178.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1168,1621",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "14h : 30m",
+        "price": "₹ 9,178.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2974,1276",
+        "dep_time": "20:25",
+        "arr_time": "08:25 PM",
+        "duration": "15h : 05m",
+        "price": "₹ 9,203.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,2896",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "12h : 30m",
+        "price": "₹ 9,475.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,2832",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "13h : 20m",
+        "price": "₹ 9,475.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9482,2896",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "15h : 10m",
+        "price": "₹ 9,475.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9482,2832",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "16h : 00m",
+        "price": "₹ 9,475.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,2838",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "28h : 15m",
+        "price": "₹ 9,475.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9482,538",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "05h : 10m",
+        "price": "₹ 9,775.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,2886",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "14h : 40m",
+        "price": "₹ 9,775.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9482,2886",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "17h : 20m",
+        "price": "₹ 9,775.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6465,2109",
+        "dep_time": "18:00",
+        "arr_time": "06:00 PM",
+        "duration": "05h : 25m",
+        "price": "₹ 10,486.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,538",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "26h : 30m",
+        "price": "₹ 10,647.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9478,2526",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "16h : 40m",
+        "price": "₹ 11,248.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9482,2526",
+        "dep_time": "17:35",
+        "arr_time": "05:35 PM",
+        "duration": "19h : 20m",
+        "price": "₹ 11,248.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 852,6575",
+        "dep_time": "14:20",
+        "arr_time": "02:20 PM",
+        "duration": "05h : 00m",
+        "price": "₹ 11,360.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6283,6045",
+        "dep_time": "23:25",
+        "arr_time": "11:25 PM",
+        "duration": "05h : 35m",
+        "price": "₹ 11,360.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 309,6768",
+        "dep_time": "18:15",
+        "arr_time": "06:15 PM",
+        "duration": "05h : 30m",
+        "price": "₹ 11,459.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6017,6834",
+        "dep_time": "18:40",
+        "arr_time": "06:40 PM",
+        "duration": "05h : 15m",
+        "price": "₹ 11,459.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E-6067,2233",
+        "dep_time": "16:10",
+        "arr_time": "04:10 PM",
+        "duration": "06h : 10m",
+        "price": "₹ 12,337.00"
+    },
+    {
+        "airline": "Akasa Air",
+        "flight_number": "QP-1906,1342",
+        "dep_time": "22:50",
+        "arr_time": "10:50 PM",
+        "duration": "09h : 55m",
+        "price": "₹ 12,560.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9613,1802",
+        "dep_time": "19:55",
+        "arr_time": "07:55 PM",
+        "duration": "28h : 15m",
+        "price": "₹ 13,826.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 181,2317",
+        "dep_time": "15:15",
+        "arr_time": "03:15 PM",
+        "duration": "05h : 30m",
+        "price": "₹ 16,221.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9776,2906",
+        "dep_time": "19:55",
+        "arr_time": "07:55 PM",
+        "duration": "12h : 20m",
+        "price": "₹ 16,627.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9776,818",
+        "dep_time": "19:55",
+        "arr_time": "07:55 PM",
+        "duration": "14h : 25m",
+        "price": "₹ 16,627.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2840,9487",
+        "dep_time": "22:30",
+        "arr_time": "10:30 PM",
+        "duration": "08h : 40m",
+        "price": "₹ 16,884.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2811,9487",
+        "dep_time": "23:40",
+        "arr_time": "11:40 PM",
+        "duration": "07h : 30m",
+        "price": "₹ 17,196.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E- 116,6409",
+        "dep_time": "22:35",
+        "arr_time": "10:35 PM",
+        "duration": "06h : 10m",
+        "price": "₹ 18,893.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2663,1271",
+        "dep_time": "18:55",
+        "arr_time": "06:55 PM",
+        "duration": "15h : 00m",
+        "price": "₹ 18,965.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2850,2422",
+        "dep_time": "20:30",
+        "arr_time": "08:30 PM",
+        "duration": "06h : 45m",
+        "price": "₹ 19,241.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2850,2986",
+        "dep_time": "20:30",
+        "arr_time": "08:30 PM",
+        "duration": "06h : 50m",
+        "price": "₹ 19,285.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2850,1882",
+        "dep_time": "20:30",
+        "arr_time": "08:30 PM",
+        "duration": "07h : 05m",
+        "price": "₹ 19,285.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9706,1834",
+        "dep_time": "19:10",
+        "arr_time": "07:10 PM",
+        "duration": "14h : 25m",
+        "price": "₹ 19,754.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2642,9487",
+        "dep_time": "21:30",
+        "arr_time": "09:30 PM",
+        "duration": "09h : 40m",
+        "price": "₹ 20,084.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E-6451,2309",
+        "dep_time": "17:45",
+        "arr_time": "05:45 PM",
+        "duration": "05h : 30m",
+        "price": "₹ 20,620.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2642,2422",
+        "dep_time": "21:30",
+        "arr_time": "09:30 PM",
+        "duration": "05h : 45m",
+        "price": "₹ 21,617.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E-5218,6082",
+        "dep_time": "14:00",
+        "arr_time": "02:00 PM",
+        "duration": "06h : 15m",
+        "price": "₹ 21,984.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 732, 102",
+        "dep_time": "18:00",
+        "arr_time": "06:00 PM",
+        "duration": "05h : 30m",
+        "price": "₹ 23,575.00"
+    },
+    {
+        "airline": "Indigo",
+        "flight_number": "6E- 441,6926",
+        "dep_time": "20:50",
+        "arr_time": "08:50 PM",
+        "duration": "05h : 20m",
+        "price": "₹ 24,154.00"
+    },
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E- 223,2079",
+        "dep_time": "17:00",
+        "arr_time": "05:00 PM",
+        "duration": "06h : 15m",
+        "price": "₹ 24,425.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2548,1348",
+        "dep_time": "18:30",
+        "arr_time": "06:30 PM",
+        "duration": "09h : 05m",
+        "price": "₹ 24,816.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2964,1258",
+        "dep_time": "18:25",
+        "arr_time": "06:25 PM",
+        "duration": "09h : 00m",
+        "price": "₹ 25,914.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1605,1348",
+        "dep_time": "20:20",
+        "arr_time": "08:20 PM",
+        "duration": "07h : 15m",
+        "price": "₹ 26,706.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2049,1229",
+        "dep_time": "14:45",
+        "arr_time": "02:45 PM",
+        "duration": "09h : 40m",
+        "price": "₹ 26,804.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1262,1053",
+        "dep_time": "17:00",
+        "arr_time": "05:00 PM",
+        "duration": "06h : 20m",
+        "price": "₹ 28,607.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2850,9487",
+        "dep_time": "20:30",
+        "arr_time": "08:30 PM",
+        "duration": "10h : 40m",
+        "price": "₹ 28,822.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2014,1093",
+        "dep_time": "14:10",
+        "arr_time": "02:10 PM",
+        "duration": "09h : 45m",
+        "price": "₹ 29,638.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1134,1063",
+        "dep_time": "15:10",
+        "arr_time": "03:10 PM",
+        "duration": "10h : 20m",
+        "price": "₹ 31,121.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-2014,1265",
+        "dep_time": "14:10",
+        "arr_time": "02:10 PM",
+        "duration": "07h : 05m",
+        "price": "₹ 32,373.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9613,420",
+        "dep_time": "19:55",
+        "arr_time": "07:55 PM",
+        "duration": "23h : 20m",
+        "price": "₹ 32,864.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1605,1109",
+        "dep_time": "20:20",
+        "arr_time": "08:20 PM",
+        "duration": "14h : 45m",
+        "price": "₹ 33,181.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1134,1065",
+        "dep_time": "15:10",
+        "arr_time": "03:10 PM",
+        "duration": "07h : 40m",
+        "price": "₹ 33,221.00"
+    },
+    {
+        "airline": "Air India Express",
+        "flight_number": "IX-1871,1511",
+        "dep_time": "20:15",
+        "arr_time": "08:15 PM",
+        "duration": "13h : 10m",
+        "price": "₹ 34,594.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2610,2422",
+        "dep_time": "19:00",
+        "arr_time": "07:00 PM",
+        "duration": "08h : 15m",
+        "price": "₹ 41,322.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2610,2986",
+        "dep_time": "19:00",
+        "arr_time": "07:00 PM",
+        "duration": "09h : 50m",
+        "price": "₹ 43,088.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-2610,1882",
+        "dep_time": "19:00",
+        "arr_time": "07:00 PM",
+        "duration": "10h : 05m",
+        "price": "₹ 43,088.00"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-9806,2608",
+        "dep_time": "18:25",
+        "arr_time": "06:25 PM",
+        "duration": "08h : 25m",
+        "price": "₹ 49,246.00"
+    },
+    {
+        "airline": "",
+        "flight_number": "",
+        "dep_time": "",
+        "arr_time": "",
+        "duration": "No Flights found. Please re-set the filters and try again",
+        "price": ""
+    }
+]
